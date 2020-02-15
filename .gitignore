@@ -1,2 +1,21 @@
 
 Prueba 1.code-workspace
+bin/Debug/netcoreapp3.1/Repositorio-de-prueba.deps.json
+bin/Debug/netcoreapp3.1/Repositorio-de-prueba.dll
+bin/Debug/netcoreapp3.1/Repositorio-de-prueba.exe
+bin/Debug/netcoreapp3.1/Repositorio-de-prueba.pdb
+bin/Debug/netcoreapp3.1/Repositorio-de-prueba.runtimeconfig.dev.json
+bin/Debug/netcoreapp3.1/Repositorio-de-prueba.runtimeconfig.json
+obj/Debug/netcoreapp3.1/Repositorio-de-prueba.AssemblyInfo.cs
+obj/Debug/netcoreapp3.1/Repositorio-de-prueba.AssemblyInfoInputs.cache
+obj/Debug/netcoreapp3.1/Repositorio-de-prueba.assets.cache
+obj/Debug/netcoreapp3.1/Repositorio-de-prueba.csproj.FileListAbsolute.txt
+obj/Debug/netcoreapp3.1/Repositorio-de-prueba.csprojAssemblyReference.cache
+obj/Debug/netcoreapp3.1/Repositorio-de-prueba.dll
+obj/Debug/netcoreapp3.1/Repositorio-de-prueba.exe
+obj/Debug/netcoreapp3.1/Repositorio-de-prueba.pdb
+obj/project.assets.json
+obj/Repositorio-de-prueba.csproj.nuget.g.targets
+obj/Repositorio-de-prueba.csproj.nuget.g.props
+obj/Repositorio-de-prueba.csproj.nuget.dgspec.json
+obj/Repositorio-de-prueba.csproj.nuget.cache
